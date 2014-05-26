@@ -6,6 +6,7 @@
 // Create the BookReader object
 br = new BookReader();
 br.mode = display_mode;
+br.pageProgression = pageProgression;//'rl';
 
 // Return the width of a given page.  Here we assume all images are 800 pixels wide
 br.getPageWidth = function(index) {

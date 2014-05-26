@@ -48,6 +48,9 @@ function BookReader() {
     this.ui = ui_mode;           // UI mode
     this.uiAutoHide = false;    // Controls whether nav/toolbar will autohide
 
+//    this.pageProgression = 'rl';
+	this.pageProgression = pageProgression;//'rl';
+
     // thumbnail mode
     this.thumbWidth = 100; // will be overridden during prepareThumbnailView
     this.thumbRowBuffer = 2; // number of rows to pre-cache out a view
