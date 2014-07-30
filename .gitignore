@@ -2,3 +2,4 @@ src/properties/global.properties
 book-reader-viewer.war/project/src/properties/global.properties
 global.properties
 build/project/src/properties/global.properties
+book-reader-viewer.war/WEB-INF/classes/global.properties
