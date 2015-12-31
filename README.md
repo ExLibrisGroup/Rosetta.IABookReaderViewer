@@ -1,4 +1,4 @@
-IABookReader
+IABookReaderViewer
 ============
 For deployment instructions, see https://developers.exlibrisgroup.com/staging/blog/rosetta_ia_bookreader.
 
